@@ -1,2 +1,2 @@
-# SpringJSD
+# SpringJSF
 Spring JSF Integration
