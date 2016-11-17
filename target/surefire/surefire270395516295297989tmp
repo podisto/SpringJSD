@@ -1,0 +1,6 @@
+#surefire
+#Thu Nov 17 11:20:45 GMT 2016
+maven.ext.class.path=/home/podisto/netbeans-8.1/java/maven-nblib/netbeans-eventspy.jar
+user.dir=/home/podisto/NetBeansProjects/SpringJSF
+localRepository=/home/podisto/.m2/repository
+basedir=/home/podisto/NetBeansProjects/SpringJSF
